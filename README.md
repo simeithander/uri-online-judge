@@ -6,6 +6,7 @@ Perfil: https://www.urionlinejudge.com.br/judge/pt/profile/272116
 Algumas respostas das questões do URI - Online Judge
 
 [1003 - Soma Simples.py](/simeithander/uri-online-judge/blob/master/questions/1003%20-%20Soma%20Simples.py)
+
 1004 - Produto Simples.py
 1005 - Média 1.py
 1006 - Média 2.py
@@ -21,9 +22,9 @@ Algumas respostas das questões do URI - Online Judge
 2058 - Triângulos e Polígonos Regulares.py
 2234 - Cachorros-Quentes.py
 2374 - Pneu.py
-2377 - Pedário.py	
-2395 - Transporte de Contêineres.py
-2416 - Corrida.py
+2377 - Pedário.py	## NÍVEL 5
+2395 - Transporte de Contêineres.py ## NÍVEL 5
+2416 - Corrida.py ## NÍVEL 5
 2717 - Tempo do Duende.py
 2747 - Saída 1.py	
 2756 - Saída 10.py
