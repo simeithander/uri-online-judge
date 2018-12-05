@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+res1 = (a*b)+(a-1)*(b-1)
+res2 = (a-1)+(a-1)+(b-1)+(b-1)
+print(res1)
+print(res2)

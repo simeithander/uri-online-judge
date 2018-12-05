@@ -1,0 +1,7 @@
+palavra1 = input()
+palavra2 = input()
+palavra3 = input()
+print('{}{}{}'.format(palavra1,palavra2,palavra3))
+print('{}{}{}'.format(palavra2,palavra3,palavra1))
+print('{}{}{}'.format(palavra3,palavra1,palavra2))
+print('{}{}{}'.format(palavra1[0:10],palavra2[0:10],palavra3[0:10]))
